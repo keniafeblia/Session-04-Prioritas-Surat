@@ -1,0 +1,301 @@
+id_surat,jenis_surat,asal_surat,hari_tenggat,jumlah_lampiran,kata_segera,perlu_ttd_pimpinan,prioritas
+SM-001,Undangan,Mitra,19.0,0.0,0,0,Rendah
+SM-002,Laporan,Masyarakat,24.0,0.0,1,0,Rendah
+SM-003,Laporan,Internal,23.0,1.0,1,0,Sedang
+SM-004,Pemberitahuan,Masyarakat,5.0,5.0,1,0,Sedang
+SM-005,Pemberitahuan,Instansi Pemerintah,25.0,2.0,1,1,Sedang
+SM-006,Edaran,Internal,17.0,4.0,1,1,Sedang
+SM-007,Undangan,Mitra,10.0,2.0,1,0,Rendah
+SM-008,Laporan,Instansi Pemerintah,16.0,1.0,0,0,Rendah
+SM-009,Permohonan,Mitra,30.0,2.0,1,0,Rendah
+SM-010,Undangan,Internal,26.0,0.0,0,0,Rendah
+SM-011,Pemberitahuan,Instansi Pemerintah,26.0,4.0,0,1,Sedang
+SM-012,Edaran,Instansi Pemerintah,14.0,1.0,0,1,Rendah
+SM-013,Laporan,Internal,24.0,2.0,1,1,Sedang
+SM-014,Laporan,Mitra,,5.0,1,1,Sedang
+SM-015,Laporan,Internal,21.0,3.0,0,1,Rendah
+SM-016,Laporan,Instansi Pemerintah,20.0,2.0,1,1,Tinggi
+SM-017,Pemberitahuan,Instansi Pemerintah,8.0,3.0,1,0,Rendah
+SM-018,Undangan,Instansi Pemerintah,8.0,4.0,0,0,Sedang
+SM-019,Edaran,Masyarakat,2.0,1.0,0,0,Rendah
+SM-020,Pemberitahuan,Masyarakat,5.0,3.0,0,0,Rendah
+SM-021,Pemberitahuan,Mitra,14.0,5.0,1,0,Rendah
+SM-022,Permohonan,Internal,15.0,3.0,0,1,Rendah
+SM-023,Undangan,Instansi Pemerintah,5.0,2.0,1,1,Tinggi
+SM-024,Edaran,Masyarakat,13.0,0.0,0,0,Rendah
+SM-025,Laporan,Masyarakat,19.0,1.0,1,0,Rendah
+SM-026,Laporan,Internal,7.0,5.0,0,0,Rendah
+SM-027,Pemberitahuan,Internal,11.0,3.0,1,0,Sedang
+SM-028,Edaran,Internal,12.0,1.0,0,1,Rendah
+SM-029,Pemberitahuan,Internal,16.0,2.0,0,0,Rendah
+SM-030,Pemberitahuan,Instansi Pemerintah,11.0,3.0,1,1,Tinggi
+SM-031,Pemberitahuan,Instansi Pemerintah,23.0,3.0,1,0,Tinggi
+SM-032,Permohonan,Mitra,10.0,4.0,1,0,Sedang
+SM-033,Undangan,Mitra,14.0,1.0,0,0,Rendah
+SM-034,Pemberitahuan,Masyarakat,12.0,3.0,0,1,Rendah
+SM-035,Edaran,Mitra,6.0,2.0,0,1,Sedang
+SM-036,Undangan,Masyarakat,21.0,5.0,0,0,Rendah
+SM-037,Edaran,Masyarakat,8.0,0.0,0,1,Rendah
+SM-038,Edaran,Mitra,9.0,0.0,1,0,Rendah
+SM-039,Permohonan,Internal,24.0,2.0,1,1,Sedang
+SM-040,Laporan,Masyarakat,,3.0,1,0,Rendah
+SM-041,Undangan,Instansi Pemerintah,21.0,4.0,1,0,Sedang
+SM-042,Laporan,Mitra,28.0,2.0,1,1,Sedang
+SM-043,Laporan,Instansi Pemerintah,26.0,5.0,0,0,Rendah
+SM-044,Permohonan,Instansi Pemerintah,15.0,2.0,0,0,Rendah
+SM-045,Undangan,Masyarakat,24.0,,0,0,Sedang
+SM-046,Edaran,Mitra,10.0,0.0,1,0,Rendah
+SM-047,Pemberitahuan,Masyarakat,14.0,5.0,0,1,Rendah
+SM-048,Edaran,Masyarakat,17.0,0.0,0,1,Rendah
+SM-049,Laporan,Internal,29.0,5.0,0,1,Rendah
+SM-050,Laporan,Internal,26.0,1.0,0,0,Rendah
+SM-051,Laporan,Instansi Pemerintah,15.0,,0,0,Rendah
+SM-052,Undangan,Internal,20.0,1.0,1,0,Rendah
+SM-053,Permohonan,Mitra,7.0,,0,0,Rendah
+SM-054,Pemberitahuan,Mitra,25.0,2.0,0,0,Rendah
+SM-055,Pemberitahuan,Masyarakat,17.0,4.0,1,1,Sedang
+SM-056,Undangan,Masyarakat,16.0,,0,1,Sedang
+SM-057,Pemberitahuan,Internal,23.0,,1,1,Sedang
+SM-058,Undangan,Masyarakat,19.0,3.0,0,0,Rendah
+SM-059,Laporan,Internal,3.0,5.0,0,0,Sedang
+SM-060,Laporan,Instansi Pemerintah,9.0,2.0,0,0,Rendah
+SM-061,Edaran,Masyarakat,6.0,0.0,0,0,Rendah
+SM-062,Laporan,Masyarakat,23.0,2.0,1,0,Rendah
+SM-063,Permohonan,Internal,2.0,5.0,0,0,Sedang
+SM-064,Edaran,Masyarakat,,1.0,0,0,Rendah
+SM-065,Pemberitahuan,Internal,18.0,5.0,0,1,Rendah
+SM-066,Permohonan,Instansi Pemerintah,21.0,3.0,1,0,Sedang
+SM-067,Edaran,Mitra,16.0,3.0,1,1,Sedang
+SM-068,Permohonan,Mitra,26.0,1.0,1,0,Rendah
+SM-069,Undangan,Internal,28.0,5.0,0,0,Rendah
+SM-070,Pemberitahuan,Masyarakat,4.0,0.0,0,0,Rendah
+SM-071,Laporan,Mitra,29.0,1.0,0,0,Rendah
+SM-072,Undangan,Instansi Pemerintah,19.0,2.0,0,0,Rendah
+SM-073,Pemberitahuan,Mitra,20.0,2.0,1,0,Rendah
+SM-074,Undangan,Mitra,3.0,2.0,1,1,Tinggi
+SM-075,Laporan,Masyarakat,19.0,0.0,0,0,Rendah
+SM-076,Pemberitahuan,Internal,22.0,1.0,0,1,Sedang
+SM-077,Permohonan,Instansi Pemerintah,18.0,0.0,1,0,Sedang
+SM-078,Permohonan,Instansi Pemerintah,3.0,3.0,0,0,Sedang
+SM-079,Pemberitahuan,Mitra,16.0,2.0,0,0,Rendah
+SM-080,Laporan,Mitra,29.0,3.0,0,0,Rendah
+SM-081,Edaran,Internal,22.0,3.0,0,1,Rendah
+SM-082,Pemberitahuan,Masyarakat,5.0,,0,1,Sedang
+SM-083,Undangan,Masyarakat,29.0,3.0,0,1,Rendah
+SM-084,Edaran,Internal,29.0,3.0,0,0,Rendah
+SM-085,Laporan,Internal,6.0,,0,0,Rendah
+SM-086,Laporan,Internal,25.0,3.0,0,1,Rendah
+SM-087,Undangan,Internal,13.0,3.0,0,0,Rendah
+SM-088,Permohonan,Masyarakat,18.0,1.0,1,0,Sedang
+SM-089,Laporan,Masyarakat,14.0,1.0,1,0,Rendah
+SM-090,Edaran,Internal,24.0,4.0,0,1,Rendah
+SM-091,Pemberitahuan,Instansi Pemerintah,30.0,2.0,0,1,Rendah
+SM-092,Edaran,Internal,24.0,3.0,1,1,Sedang
+SM-093,Edaran,Mitra,28.0,1.0,0,1,Rendah
+SM-094,Permohonan,Instansi Pemerintah,29.0,2.0,0,0,Rendah
+SM-095,Edaran,Instansi Pemerintah,3.0,3.0,1,1,Tinggi
+SM-096,Permohonan,Masyarakat,8.0,,0,0,Rendah
+SM-097,Permohonan,Internal,22.0,3.0,1,1,Sedang
+SM-098,Laporan,Internal,18.0,2.0,0,0,Rendah
+SM-099,Laporan,Mitra,2.0,5.0,0,1,Tinggi
+SM-100,Undangan,Mitra,3.0,3.0,0,0,Sedang
+SM-101,Edaran,Masyarakat,16.0,4.0,0,0,Rendah
+SM-102,Undangan,Masyarakat,19.0,4.0,0,0,Rendah
+SM-103,Edaran,Mitra,6.0,3.0,0,0,Rendah
+SM-104,Undangan,Masyarakat,6.0,5.0,1,0,Tinggi
+SM-105,Laporan,Mitra,,0.0,0,1,Sedang
+SM-106,Laporan,Instansi Pemerintah,17.0,5.0,0,0,Rendah
+SM-107,Laporan,Mitra,,5.0,1,1,Tinggi
+SM-108,Laporan,Internal,18.0,3.0,1,0,Sedang
+SM-109,Pemberitahuan,Masyarakat,15.0,4.0,0,1,Rendah
+SM-110,Laporan,Internal,14.0,3.0,0,0,Rendah
+SM-111,Permohonan,Internal,21.0,1.0,1,1,Sedang
+SM-112,Laporan,Internal,16.0,4.0,0,0,Rendah
+SM-113,Pemberitahuan,Mitra,22.0,1.0,1,0,Rendah
+SM-114,Pemberitahuan,Internal,23.0,1.0,1,1,Sedang
+SM-115,Pemberitahuan,Internal,28.0,,1,0,Rendah
+SM-116,Pemberitahuan,Instansi Pemerintah,24.0,5.0,0,0,Rendah
+SM-117,Undangan,Masyarakat,,2.0,0,1,Sedang
+SM-118,Undangan,Internal,15.0,2.0,0,1,Rendah
+SM-119,Permohonan,Mitra,8.0,0.0,0,0,Rendah
+SM-120,Undangan,Instansi Pemerintah,18.0,0.0,1,0,Tinggi
+SM-121,Pemberitahuan,Masyarakat,5.0,0.0,0,1,Sedang
+SM-122,Laporan,Instansi Pemerintah,28.0,0.0,0,1,Sedang
+SM-123,Laporan,Masyarakat,26.0,5.0,0,1,Rendah
+SM-124,Pemberitahuan,Instansi Pemerintah,4.0,5.0,1,0,Sedang
+SM-125,Edaran,Mitra,24.0,4.0,0,1,Sedang
+SM-126,Pemberitahuan,Internal,4.0,0.0,0,0,Rendah
+SM-127,Undangan,Masyarakat,22.0,0.0,0,1,Sedang
+SM-128,Laporan,Masyarakat,3.0,1.0,0,0,Sedang
+SM-129,Pemberitahuan,Internal,15.0,3.0,0,1,Rendah
+SM-130,Laporan,Instansi Pemerintah,20.0,2.0,0,0,Rendah
+SM-131,Pemberitahuan,Internal,22.0,2.0,0,0,Rendah
+SM-132,Pemberitahuan,Instansi Pemerintah,13.0,1.0,0,1,Sedang
+SM-133,Undangan,Masyarakat,28.0,4.0,0,0,Rendah
+SM-134,Pemberitahuan,Internal,24.0,1.0,0,1,Rendah
+SM-135,Laporan,Mitra,,0.0,0,0,Rendah
+SM-136,Permohonan,Internal,21.0,4.0,0,1,Rendah
+SM-137,Laporan,Instansi Pemerintah,22.0,5.0,0,0,Rendah
+SM-138,Undangan,Masyarakat,11.0,0.0,0,0,Rendah
+SM-139,Permohonan,Internal,23.0,2.0,0,0,Rendah
+SM-140,Pemberitahuan,Mitra,27.0,4.0,0,0,Rendah
+SM-141,Edaran,Masyarakat,25.0,4.0,0,0,Rendah
+SM-142,Permohonan,Mitra,23.0,5.0,0,1,Rendah
+SM-143,Permohonan,Internal,20.0,2.0,1,1,Sedang
+SM-144,Pemberitahuan,Mitra,,2.0,0,1,Rendah
+SM-145,Edaran,Instansi Pemerintah,24.0,4.0,0,0,Rendah
+SM-146,Edaran,Instansi Pemerintah,11.0,0.0,0,0,Rendah
+SM-147,Undangan,Mitra,,1.0,0,0,Rendah
+SM-148,Permohonan,Masyarakat,10.0,3.0,0,1,Rendah
+SM-149,Edaran,Instansi Pemerintah,10.0,4.0,1,1,Sedang
+SM-150,Undangan,Mitra,5.0,0.0,1,0,Sedang
+SM-151,Edaran,Masyarakat,29.0,3.0,0,1,Rendah
+SM-152,Permohonan,Masyarakat,5.0,2.0,0,0,Sedang
+SM-153,Edaran,Mitra,3.0,3.0,0,0,Sedang
+SM-154,Permohonan,Internal,29.0,5.0,0,0,Rendah
+SM-155,Pemberitahuan,Instansi Pemerintah,17.0,,0,0,Rendah
+SM-156,Laporan,Instansi Pemerintah,14.0,5.0,0,1,Sedang
+SM-157,Undangan,Internal,,2.0,0,1,Rendah
+SM-158,Pemberitahuan,Instansi Pemerintah,12.0,4.0,1,0,Sedang
+SM-159,Pemberitahuan,Masyarakat,4.0,2.0,0,0,Rendah
+SM-160,Laporan,Internal,22.0,1.0,0,1,Rendah
+SM-161,Edaran,Instansi Pemerintah,6.0,4.0,1,1,Tinggi
+SM-162,Laporan,Internal,17.0,4.0,0,1,Rendah
+SM-163,Pemberitahuan,Instansi Pemerintah,29.0,0.0,0,0,Rendah
+SM-164,Pemberitahuan,Mitra,29.0,4.0,0,1,Rendah
+SM-165,Pemberitahuan,Internal,11.0,4.0,1,0,Rendah
+SM-166,Edaran,Masyarakat,24.0,2.0,0,1,Rendah
+SM-167,Permohonan,Internal,19.0,5.0,0,0,Rendah
+SM-168,Undangan,Instansi Pemerintah,15.0,3.0,0,1,Sedang
+SM-169,Permohonan,Internal,5.0,2.0,0,0,Rendah
+SM-170,Undangan,Masyarakat,12.0,0.0,0,0,Rendah
+SM-171,Undangan,Instansi Pemerintah,20.0,4.0,0,1,Sedang
+SM-172,Undangan,Masyarakat,30.0,1.0,0,1,Sedang
+SM-173,Laporan,Mitra,1.0,4.0,0,0,Sedang
+SM-174,Laporan,Mitra,22.0,3.0,1,1,Sedang
+SM-175,Laporan,Instansi Pemerintah,26.0,2.0,0,1,Tinggi
+SM-176,Pemberitahuan,Masyarakat,29.0,0.0,1,0,Rendah
+SM-177,Laporan,Masyarakat,,4.0,0,0,Rendah
+SM-178,Undangan,Internal,4.0,0.0,0,0,Sedang
+SM-179,Edaran,Instansi Pemerintah,9.0,2.0,1,1,Tinggi
+SM-180,Pemberitahuan,Internal,,5.0,1,0,Rendah
+SM-181,Edaran,Mitra,27.0,5.0,0,0,Rendah
+SM-182,Undangan,Masyarakat,20.0,5.0,1,1,Tinggi
+SM-183,Pemberitahuan,Mitra,4.0,5.0,0,1,Sedang
+SM-184,Laporan,Masyarakat,4.0,3.0,0,1,Rendah
+SM-185,Pemberitahuan,Mitra,15.0,1.0,1,1,Sedang
+SM-186,Pemberitahuan,Internal,18.0,5.0,0,1,Rendah
+SM-187,Undangan,Mitra,1.0,4.0,1,1,Tinggi
+SM-188,Permohonan,Instansi Pemerintah,21.0,5.0,0,1,Sedang
+SM-189,Permohonan,Masyarakat,17.0,3.0,1,0,Rendah
+SM-190,Permohonan,Instansi Pemerintah,1.0,0.0,0,0,Sedang
+SM-191,Laporan,Masyarakat,3.0,3.0,0,0,Sedang
+SM-192,Laporan,Masyarakat,14.0,2.0,0,1,Rendah
+SM-193,Laporan,Masyarakat,22.0,5.0,0,0,Rendah
+SM-194,Permohonan,Instansi Pemerintah,25.0,2.0,0,0,Rendah
+SM-195,Edaran,Mitra,13.0,1.0,0,0,Rendah
+SM-196,Undangan,Mitra,9.0,0.0,0,0,Rendah
+SM-197,Permohonan,Internal,30.0,5.0,0,0,Rendah
+SM-198,Undangan,Mitra,14.0,4.0,0,1,Sedang
+SM-199,Permohonan,Masyarakat,10.0,0.0,1,1,Rendah
+SM-200,Edaran,Mitra,14.0,2.0,1,0,Sedang
+SM-201,Permohonan,Internal,1.0,2.0,1,0,Sedang
+SM-202,Edaran,Instansi Pemerintah,10.0,2.0,0,0,Rendah
+SM-203,Pemberitahuan,Masyarakat,16.0,5.0,1,1,Sedang
+SM-204,Laporan,Masyarakat,28.0,0.0,0,1,Sedang
+SM-205,Pemberitahuan,Mitra,23.0,1.0,0,0,Rendah
+SM-206,Permohonan,Mitra,24.0,1.0,0,1,Rendah
+SM-207,Laporan,Instansi Pemerintah,17.0,1.0,0,0,Rendah
+SM-208,Edaran,Internal,4.0,5.0,0,0,Rendah
+SM-209,Permohonan,Mitra,12.0,5.0,0,1,Rendah
+SM-210,Laporan,Internal,30.0,0.0,1,0,Rendah
+SM-211,Permohonan,Masyarakat,2.0,3.0,0,0,Sedang
+SM-212,Laporan,Instansi Pemerintah,27.0,,0,0,Rendah
+SM-213,Laporan,Masyarakat,21.0,1.0,1,1,Sedang
+SM-214,Pemberitahuan,Masyarakat,9.0,1.0,0,1,Rendah
+SM-215,Laporan,Masyarakat,,,0,1,Rendah
+SM-216,Permohonan,Internal,26.0,2.0,1,0,Sedang
+SM-217,Undangan,Masyarakat,2.0,5.0,1,0,Tinggi
+SM-218,Undangan,Internal,4.0,3.0,0,1,Rendah
+SM-219,Pemberitahuan,Mitra,20.0,4.0,0,0,Rendah
+SM-220,Edaran,Instansi Pemerintah,30.0,2.0,0,1,Sedang
+SM-221,Undangan,Mitra,1.0,0.0,0,1,Sedang
+SM-222,Pemberitahuan,Internal,,0.0,0,0,Rendah
+SM-223,Laporan,Internal,5.0,1.0,0,1,Sedang
+SM-224,Permohonan,Masyarakat,20.0,1.0,0,0,Rendah
+SM-225,Laporan,Mitra,19.0,5.0,1,0,Rendah
+SM-226,Permohonan,Mitra,3.0,,0,0,Rendah
+SM-227,Edaran,Masyarakat,21.0,5.0,0,0,Rendah
+SM-228,Pemberitahuan,Internal,27.0,3.0,0,1,Sedang
+SM-229,Pemberitahuan,Masyarakat,26.0,3.0,1,1,Sedang
+SM-230,Undangan,Masyarakat,1.0,3.0,0,1,Tinggi
+SM-231,Pemberitahuan,Instansi Pemerintah,8.0,2.0,0,1,Rendah
+SM-232,Edaran,Internal,8.0,4.0,0,0,Rendah
+SM-233,Undangan,Internal,14.0,4.0,0,0,Rendah
+SM-234,Laporan,Mitra,,4.0,0,1,Sedang
+SM-235,Pemberitahuan,Instansi Pemerintah,26.0,3.0,1,1,Tinggi
+SM-236,Laporan,Internal,24.0,0.0,0,0,Rendah
+SM-237,Laporan,Mitra,25.0,4.0,1,0,Sedang
+SM-238,Pemberitahuan,Internal,6.0,2.0,1,0,Sedang
+SM-239,Permohonan,Instansi Pemerintah,1.0,4.0,0,0,Sedang
+SM-240,Laporan,Internal,28.0,3.0,0,1,Rendah
+SM-241,Undangan,Instansi Pemerintah,9.0,5.0,0,0,Rendah
+SM-242,Pemberitahuan,Internal,20.0,2.0,1,1,Sedang
+SM-243,Undangan,Internal,28.0,5.0,0,1,Sedang
+SM-244,Laporan,Internal,2.0,5.0,0,1,Tinggi
+SM-245,Laporan,Masyarakat,1.0,1.0,0,0,Sedang
+SM-246,Undangan,Internal,1.0,2.0,1,0,Tinggi
+SM-247,Laporan,Mitra,5.0,3.0,0,1,Sedang
+SM-248,Pemberitahuan,Instansi Pemerintah,2.0,4.0,0,1,Tinggi
+SM-249,Laporan,Instansi Pemerintah,25.0,4.0,0,0,Rendah
+SM-250,Undangan,Instansi Pemerintah,19.0,5.0,1,1,Tinggi
+SM-251,Undangan,Masyarakat,30.0,,0,0,Rendah
+SM-252,Pemberitahuan,Mitra,25.0,3.0,0,1,Rendah
+SM-253,Undangan,Masyarakat,29.0,2.0,1,0,Sedang
+SM-254,Permohonan,Mitra,8.0,5.0,1,0,Sedang
+SM-255,Laporan,Masyarakat,9.0,1.0,0,0,Rendah
+SM-256,Undangan,Instansi Pemerintah,26.0,3.0,0,0,Sedang
+SM-257,Laporan,Instansi Pemerintah,8.0,0.0,1,0,Sedang
+SM-258,Undangan,Masyarakat,2.0,5.0,1,0,Tinggi
+SM-259,Undangan,Masyarakat,21.0,2.0,0,0,Rendah
+SM-260,Pemberitahuan,Masyarakat,25.0,,0,1,Sedang
+SM-261,Laporan,Instansi Pemerintah,30.0,3.0,1,0,Sedang
+SM-262,Undangan,Internal,28.0,2.0,1,1,Sedang
+SM-263,Permohonan,Mitra,4.0,5.0,1,1,Tinggi
+SM-264,Edaran,Internal,24.0,3.0,0,0,Rendah
+SM-265,Edaran,Masyarakat,26.0,3.0,0,0,Rendah
+SM-266,Pemberitahuan,Internal,21.0,0.0,1,1,Sedang
+SM-267,Pemberitahuan,Internal,25.0,0.0,1,1,Sedang
+SM-268,Permohonan,Internal,26.0,2.0,1,0,Rendah
+SM-269,Laporan,Instansi Pemerintah,14.0,5.0,0,1,Rendah
+SM-270,Pemberitahuan,Instansi Pemerintah,2.0,5.0,0,0,Sedang
+SM-271,Permohonan,Masyarakat,14.0,3.0,1,0,Rendah
+SM-272,Undangan,Mitra,7.0,3.0,0,1,Sedang
+SM-273,Undangan,Mitra,4.0,2.0,1,0,Sedang
+SM-274,Edaran,Internal,4.0,1.0,0,1,Rendah
+SM-275,Pemberitahuan,Internal,21.0,0.0,1,0,Rendah
+SM-276,Pemberitahuan,Mitra,16.0,2.0,1,1,Sedang
+SM-277,Pemberitahuan,Masyarakat,17.0,1.0,0,0,Rendah
+SM-278,Laporan,Instansi Pemerintah,23.0,1.0,0,0,Rendah
+SM-279,Undangan,Masyarakat,17.0,1.0,0,0,Rendah
+SM-280,Undangan,Internal,19.0,0.0,0,0,Rendah
+SM-281,Permohonan,Internal,3.0,3.0,0,1,Sedang
+SM-282,Pemberitahuan,Masyarakat,26.0,5.0,0,0,Rendah
+SM-283,Laporan,Internal,14.0,4.0,1,0,Sedang
+SM-284,Pemberitahuan,Internal,5.0,2.0,0,0,Sedang
+SM-285,Pemberitahuan,Mitra,25.0,2.0,0,0,Rendah
+SM-286,Edaran,Masyarakat,23.0,1.0,0,1,Rendah
+SM-287,Undangan,Instansi Pemerintah,2.0,0.0,0,0,Tinggi
+SM-288,Pemberitahuan,Internal,6.0,3.0,0,1,Sedang
+SM-289,Pemberitahuan,Masyarakat,1.0,3.0,0,0,Sedang
+SM-290,Pemberitahuan,Masyarakat,9.0,0.0,0,1,Rendah
+SM-291,Edaran,Masyarakat,3.0,2.0,0,0,Sedang
+SM-292,Permohonan,Masyarakat,22.0,1.0,1,0,Rendah
+SM-293,Edaran,Internal,16.0,1.0,0,1,Sedang
+SM-294,Permohonan,Masyarakat,30.0,4.0,0,1,Rendah
+SM-295,Pemberitahuan,Mitra,23.0,3.0,1,1,Sedang
+SM-296,Pemberitahuan,Masyarakat,19.0,3.0,1,0,Rendah
+SM-297,Edaran,Instansi Pemerintah,16.0,4.0,0,0,Rendah
+SM-298,Pemberitahuan,Masyarakat,2.0,5.0,0,1,Sedang
+SM-299,Permohonan,Instansi Pemerintah,3.0,4.0,0,0,Sedang
+SM-300,Undangan,Instansi Pemerintah,19.0,3.0,0,1,Sedang
