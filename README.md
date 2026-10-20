@@ -116,7 +116,7 @@ flowchart LR
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/keniafeblia/prioritas-surat-ml.git
+git clone https://github.com/keniafeblia/Session-04-Prioritas-Surat.git
 cd prioritas-surat-ml
 
 # 2. Install library
