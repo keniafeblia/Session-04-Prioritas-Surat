@@ -8,7 +8,16 @@
 ![pandas](https://img.shields.io/badge/pandas-Data-150458?logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Selesai-brightgreen)
 
-*Tugas resume & implementasi **Sesi 4: Introduction to Machine Learning**
+---
+
+### 👤 Identitas Penyusun
+**Nama:** Kenia Nurma Feblia  
+**NPM:** G1A023004  
+**Universitas:** Universitas Bengkulu  
+
+---
+
+*Tugas resume & implementasi **Sesi 4: Introduction to Machine Learning**  
 oleh Taniza Tajuddin (Universiti Teknologi MARA, Cawangan Kedah), 15 Oktober 2026*
 
 </div>
@@ -202,7 +211,7 @@ prioritas-surat-ml/
 
 <div align="center">
 
-**Mahasiswa D4 Administrasi Perkantoran Digital**
-Fakultas Ekonomi dan Bisnis, Universitas Negeri Jakarta
+**Kenia Nurma Feblia** (NPM: G1A023004)  
+**Universitas Bengkulu**
 
 </div>
